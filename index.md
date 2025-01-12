@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Minecraft Docs"
-  text: "Minecraft Docs"
+  text: "MC 知识库平台（测试用）"
   tagline: My great project tagline
   actions:
     - theme: brand

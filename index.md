@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 安装 Minecraft 材质包
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 安装 Minecraft 光影
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: 安装 Minecraft 地图存档
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

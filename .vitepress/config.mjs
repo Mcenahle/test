@@ -9,7 +9,6 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
-      { text: '个人主页网站', link: 'https://www.mcenahle.sh.cn' }
     ],
 
     sidebar: [

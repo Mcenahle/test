@@ -9,7 +9,21 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
-    ],
+      {
+          text: "其他网站",
+          // 内部配置items则该按钮是下拉
+          items: [
+            {
+              text: "个人主页",
+              link: "https://www.mcenahle.sh.cn",
+            },
+            {
+              text: "个人博客",
+              link: "https://blog.mcenahle.sh.cn",
+            },
+          ],
+        },
+      ],
 
     sidebar: [
       {

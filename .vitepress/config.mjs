@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Minecraft Docs",
   description: "Minecraft Docs",
-  base: "/vitepress-mc-doc/",
+  base: "/test/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

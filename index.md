@@ -3,23 +3,26 @@
 layout: home
 
 hero:
-  name: "Minecraft Docs"
+  name: "Minecraft Docs Website"
   text: "MC 知识库平台（测试用）"
-  tagline: Minecraft Docs website
+  tagline: Powered by Vuepress
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Minecraft 材质包下载与安装
+      link: /install-datapacks
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Minecraft 光影下载与安装
+      link: /install-shadowpacks
+    - theme: alt
+      text: Minecraft 存档下载与安装
+      link: /install-saves
 
 features:
-  - title: 安装 Minecraft 材质包
+  - title: Minecraft 材质包下载与安装
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 安装 Minecraft 光影
+  - title: Minecraft 光影下载与安装
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 安装 Minecraft 地图存档
+  - title: Minecraft 存档下载与安装
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

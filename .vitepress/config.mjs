@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/test/', // 如果是托管在子目录下，必须设置此项
+  base: '/', // 如果是托管在子目录下，必须设置此项
   title: "Minecraft Docs Website",
   description: "Minecraft Docs Website",
   themeConfig: {

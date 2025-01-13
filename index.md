@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Minecraft Docs"
   text: "MC 知识库平台（测试用）"
-  tagline: My great project tagline
+  tagline: Minecraft Docs website
   actions:
     - theme: brand
       text: Markdown Examples

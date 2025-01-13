@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/test/",
   title: "Minecraft Docs",
   description: "Minecraft Docs",
-  base: "/test/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

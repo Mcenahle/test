@@ -1,3 +1,3 @@
 export default {
-  base: '/vitepress-mc-doc/', // 你的 GitHub 仓库名称
+  base: '/test/', // 你的 GitHub 仓库名称
 };
